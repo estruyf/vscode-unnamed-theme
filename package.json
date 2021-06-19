@@ -1,21 +1,59 @@
 {
-    "name": "vercel-inspired",
-    "displayName": "vercel inspired",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Vercel Inspired",
-                "uiTheme": "vs-dark",
-                "path": "./themes/color-theme.json"
-            }
-        ]
+  "name": "vscode-unnamed-theme",
+  "displayName": "The unnamed",
+  "description": "A VSCode dark theme with bright colors.",
+  "version": "0.0.1",
+  "preview": true,
+  "publisher": "eliostruyf",
+  "galleryBanner": {
+    "color": "#161938",
+    "theme": "dark"
+  },
+  "badges": [
+    {
+      "description": "version",
+      "url": "https://img.shields.io/github/package-json/v/estruyf/vscode-unnamed-theme?color=green&label=vscode-msgraph-autocomplete&style=flat-square",
+      "href": "https://github.com/estruyf/vscode-unnamed-theme"
     }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/estruyf/vscode-unnamed-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/estruyf/vscode-unnamed-theme/issues"
+  },
+  "maintainers": [
+    {
+      "name": "Elio Struyf",
+      "email": "elio@struyfconsulting.be",
+      "url": "https://www.eliostruyf.com"
+    }
+  ],
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/estruyf"
+    },
+    {
+      "type": "buymeacoffee",
+      "url": "https://www.buymeacoffee.com/zMeFRy9"
+    }
+  ],
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vercel Inspired",
+        "uiTheme": "vs-dark",
+        "path": "./themes/color-theme.json"
+      }
+    ]
+  }
 }

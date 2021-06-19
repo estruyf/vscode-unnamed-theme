@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "vercel-inspired"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# The unnamed theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+In June 2021, I had a bike accident, and I broke one vertebra. The doctor prescribed rest, but that is so boring. Lucky enough, my body tells me I need this rest. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+As working was hard, I could only sit for 20 minutes; I started looking for something to do. That is how I came up with creating a new Visual Studio Code theme.
 
-**Enjoy!**
+I have already created various Code extensions, but I never took the time to explore how to make themes.
+
+![](./assets/sample.png)
+## Colors
+
+I love colors. That is why I wanted to have a dark theme with bright colors. 
+
+The primary color for the theme will be: `#F141A8`. From this color, all other colors are derived.
+
+- Background: `#0E131F`
+- Foreground: `#F3EFF5`
+- Secondary 1: `#FFE45E`
+- Secondary 2: `#50E3C2`
+- Secondary 3: `#15C2CB`
+- Secondary 4: `#5EADF2`
+- Secondary 5: `#FE4A49`
+
+## Contributing
+
+If you like the theme, feel free to contribute to it.
