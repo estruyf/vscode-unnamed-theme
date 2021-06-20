@@ -26,3 +26,7 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+
+## Colors
+
+https://coolors.co/e0bb00-fe6d73-b5bff8-5eadf2-44ffd2-f3eff5-0e131f-15c2cb-f141a8-fe4a49
