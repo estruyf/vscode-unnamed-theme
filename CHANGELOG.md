@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.2]
+## [0.0.3]
 
 - Icon added
 - Readme style changes for marketplace
