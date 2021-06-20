@@ -1,7 +1,7 @@
 {
   "name": "vscode-unnamed-theme",
   "displayName": "The unnamed",
-  "description": "A VSCode dark theme with bright colors.",
+  "description": "A VSCode dark theme with vivid colors.",
   "version": "0.0.2",
   "preview": true,
   "publisher": "eliostruyf",
@@ -9,6 +9,7 @@
     "color": "#161938",
     "theme": "dark"
   },
+  "icon": "assets/the-unnamed_128x128.png",
   "badges": [
     {
       "description": "version",

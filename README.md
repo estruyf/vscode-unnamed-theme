@@ -15,16 +15,16 @@ The primary color for the theme will be: `#F141A8`. From this color, all other c
 
 ### Main colors
 
-<div style="display: flex; justify-content: center; width: 100%">
+<div style="display: flex; justify-content: space-evenly; width: 100%">
   <div style="margin: 0 5px;">
     <div style="width: 50px; height: 50px; background: #F141A8; margin: 0 auto; border: 1px solid #fff;"></div>
     <p style="margin-top: 10px">Main Accent: <code>#F141A8</code>
   </div>
-  <div style="">
+  <div style="margin: 0 5px;">
     <div style="width: 50px; height: 50px; background: #0E131F; margin: 0 auto; border: 1px solid #fff;"></div>
     <p style="margin-top: 10px">Background: <code>#0E131F</code>
   </div>
-  <div style="">
+  <div style="margin: 0 5px;">
     <div style="width: 50px; height: 50px; background: #F3EFF5; margin: 0 auto; border: 1px solid #fff;"></div>
     <p style="margin-top: 10px">Foreground: <code>#F3EFF5</code>
   </div>
@@ -32,7 +32,7 @@ The primary color for the theme will be: `#F141A8`. From this color, all other c
 
 ### Accent colors
 
-<div style="display: flex; justify-content: center; width: 100%">
+<div style="display: flex; justify-content: space-evenly; width: 100%">
   <div style="margin: 0 5px;">
     <div style="width: 50px; height: 50px; background: #FFE45E; margin: 0 auto; border: 1px solid #fff;"></div>
     <p style="margin-top: 10px">Accent: <code>#FFE45E</code>
