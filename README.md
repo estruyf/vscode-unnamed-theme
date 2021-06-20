@@ -39,7 +39,7 @@ The primary color for the theme will be: `#F141A8`. From this color, all other c
   </div>
   <div style="margin: 0 5px;">
     <div style="width: 50px; height: 50px; background: #50E3C2; margin: 0 auto; border: 1px solid #fff;"></div>
-    <p style="margin-top: 10px">Accent: <code>#50E3C2</code>
+    <p style="margin-top: 10px">Accent: <code>#44FFD2</code>
   </div>
   <div style="margin: 0 5px;">
     <div style="width: 50px; height: 50px; background: #15C2CB; margin: 0 auto; border: 1px solid #fff;"></div>

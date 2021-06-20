@@ -51,7 +51,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vercel Inspired",
+        "label": "The unnamed",
         "uiTheme": "vs-dark",
         "path": "./themes/color-theme.json"
       }
