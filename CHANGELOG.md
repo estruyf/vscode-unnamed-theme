@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.4]
+
+- Change the background of extension on the marketplace
+
 ## [0.0.3]
 
 - Icon added
