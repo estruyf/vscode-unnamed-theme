@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.7]
+
+- Bring `JSON` support
+
 ## [0.0.6]
 
 - Changing the color of element content in React and HTML

@@ -22,7 +22,10 @@
 	 *		- darken:
 	 *  		- 5%: #2affcc
 	 *  		- 10%: #11ffc6
+	 *  		- 15%: #00f6bb
 	 *	Accent: #15C2CB
+	 *		- saturate:
+	 *  		- 10%: #0accd6
 	 *	Accent: #5EADF2
 	 *		- darken:
 	 *  		- 5%: #46a1f0
@@ -699,7 +702,7 @@
 			"scope": "comment",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#999999"
+				"foreground": "#f3eff5b8"
 			}
 		},
 		{
@@ -728,14 +731,14 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#8dec95"
+				"foreground": "#0accd6"
 			}
 		},
 		{
 			"name": "Boolean",
 			"scope": "constant.language.boolean",
 			"settings": {
-				"foreground": "#8dec95"
+				"foreground": "#0accd6"
 			}
 		},
 		{
@@ -862,14 +865,14 @@
 			"name": "JavaScript Variable Other ReadWrite",
 			"scope": ["variable.other.readwrite.js", "variable.parameter"],
 			"settings": {
-				"foreground": "#d7dbe0"
+				"foreground": "#F3EFF5"
 			}
 		},
 		{
 			"name": "Template Strings",
 			"scope": "string.template meta.template.expression",
 			"settings": {
-				"foreground": "#c63ed3"
+				"foreground": "#F141A8"
 			}
 		},
 		{
@@ -997,7 +1000,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#d7dbe0",
+				"foreground": "#F3EFF5",
 				"fontStyle": ""
 			}
 		},
@@ -1045,7 +1048,7 @@
 			"name": "Punctuation/Brackets/Tags",
 			"scope": ["punctuation.definition.block", "punctuation.definition.tag"],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#F3EFF5"
 			}
 		},
 		{
@@ -1098,21 +1101,21 @@
 			"name": "JSON Property Names",
 			"scope": "support.type.property-name.json",
 			"settings": {
-				"foreground": "#91dacd"
+				"foreground": "#5EADF2"
 			}
 		},
 		{
 			"name": "JSON Support Constants",
 			"scope": "support.constant.json",
 			"settings": {
-				"foreground": "#addb67"
+				"foreground": "#00f6bb"
 			}
 		},
 		{
 			"name": "JSON Property values (string)",
 			"scope": "meta.structure.dictionary.value.json string.quoted.double",
 			"settings": {
-				"foreground": "#e0aff5"
+				"foreground": "#44FFD2"
 			}
 		},
 		{
@@ -1126,7 +1129,7 @@
 			"name": "Specific JSON Property values like null",
 			"scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
 			"settings": {
-				"foreground": "#f29fd8"
+				"foreground": "#0accd6"
 			}
 		},
 		{
@@ -1140,7 +1143,7 @@
 			"name": "[JSON] - String",
 			"scope": ["source.json string", "source.json punctuation.definition.string"],
 			"settings": {
-				"foreground": "#ece7cd"
+				"foreground": "#44FFD2"
 			}
 		},
 		{
@@ -1173,7 +1176,7 @@
 			"name": "[Markdown] text ",
 			"scope": ["meta.paragraph.markdown"],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#F3EFF5"
 			}
 		},
 		{
