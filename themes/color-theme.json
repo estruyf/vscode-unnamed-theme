@@ -633,11 +633,6 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#bce7ff"
-			}
-		},
-		{
 			"scope": ["meta.paragraph.markdown", "string.other.link.description.title.markdown"],
 			"settings": {
 				"foreground": "#EEFFFF"
@@ -912,7 +907,6 @@
 			"name": "Storage",
 			"scope": [
 				"storage",
-				"meta.var.expr",
 				"meta.class meta.method.declaration meta.var.expr storage.type.js",
 				"storage.type.property.js",
 				"storage.type.property.ts"
@@ -932,6 +926,24 @@
 			],
 			"settings": {
 				"foreground": "#F3EFF5"
+			}
+		},
+		{
+			"name": "HTML and React content",
+			"scope": [
+				"meta.var.expr",
+				"meta.jsx.children.tsx",
+				"meta.tag.tsx",
+				"meta.jsx.children.tsx",
+				"meta.tag.tsx",
+				"meta.block.tsx",
+				"meta.arrow.tsx",
+				"meta.var.expr.tsx",
+				"source.tsx"
+			],
+			"settings": {
+				"foreground": "#F3EFF5",
+				"fontStyle": ""
 			}
 		},
 		{

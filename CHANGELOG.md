@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.6]
+
+- Changing the color of element content in React and HTML
+
 ## [0.0.5]
 
 - Color changes for markdown and various other changes
