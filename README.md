@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-microsoft-writingstyleguide">
+    <img alt="The unnamed" src="./assets/the-unnamed.png" height="200">
+  </a>
+</p>
+
 <h1 align="center">The unnamed</h1>
 
 <p align="center">
