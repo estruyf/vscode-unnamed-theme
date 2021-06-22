@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.9]
+
+- Updated readme
+
 ## [0.0.8]
 
 - License added
