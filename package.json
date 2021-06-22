@@ -48,12 +48,21 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "Theme",
+    "Dark Theme"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "The unnamed",
         "uiTheme": "vs-dark",
-        "path": "./themes/color-theme.json"
+        "path": "./themes/TheUnnamed-dark-theme.json"
+      },
+      {
+        "label": "The unnamed (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TheUnnamed-dark-no-italics-theme.json"
       }
     ]
   }

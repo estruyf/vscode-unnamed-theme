@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.8]
+
+- License added
+- Theme with no italics created
+
 ## [0.0.7]
 
 - Bring `JSON` support
