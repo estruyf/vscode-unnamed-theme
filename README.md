@@ -22,7 +22,7 @@ As working was hard, I could only sit for 20 minutes; I started looking for some
 
 I have already created various Code extensions, but I never took the time to explore how to make themes.
 
-![](./assets/sample.png)
+![](./assets/sample_0.0.10.png)
 
 Currenty the theme is available with and without italics.
 
