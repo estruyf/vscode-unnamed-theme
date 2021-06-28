@@ -83,15 +83,16 @@
 
 		/* Status bar */
 		"statusBar.foreground": "#f3eff5cc",
-		"statusBar.background": "#06080d",
+		"statusBar.background": "#0E131F",
 		"statusBar.border": "#212c36",
 
 		"statusBar.debuggingBackground": "#FE4A49",
+		"statusBar.debuggingForeground": "#0E131F",
 
 		"statusBarItem.remoteBackground": "#ed1292",
 
 		/* Title bar */
-		"titleBar.activeBackground": "#06080d",
+		"titleBar.activeBackground": "#0E131F",
 		"titleBar.activeForeground": "#F3EFF5",
 
 		/* Buttons */

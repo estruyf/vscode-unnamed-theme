@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.11]
+
+- Title and status bar background color update
+
 ## [0.0.10]
 
 - Structuring the colors
