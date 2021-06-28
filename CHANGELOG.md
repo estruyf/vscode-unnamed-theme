@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.12]
+
+- Changed list highlight foreground color
+
 ## [0.0.11]
 
 - Title and status bar background color update
