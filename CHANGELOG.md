@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.10]
+
+- Structuring the colors
+- Improvements to the colors for the editor UI
+
 ## [0.0.9]
 
 - Updated readme
