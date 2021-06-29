@@ -111,11 +111,35 @@
 		"inputOption.activeBorder": "#ed129200",
 
 		/* Tabs */
+		"tab.activeBackground": "#0E131F",
+		"tab.activeForeground": "#ffffff",
+		"tab.border": "#212c36",
+		"tab.inactiveBackground": "#141c2d",
+		"tab.inactiveForeground": "#f3eff5cc",
+
 		/* Breadcrumbs */
+		
 		/* Scrollbar */
+
 		/* Widgets */
+		
+
 		/* Notifications */
+		"notifications.foreground": "#F3EFF5",
+		"notificationsErrorIcon.foreground": "#FE4A49",
+		"notificationsWarningIcon.foreground": "#FFE45E",
+		"notificationsInfoIcon.foreground": "#5EADF2",
+
 		/* Git decorations */
+		"gitDecoration.addedResourceForeground": "#44FFD2cc",
+		"gitDecoration.untrackedResourceForeground": "#44FFD2cc",
+		"gitDecoration.deletedResourceForeground": "#FE4A49cc",
+		"gitDecoration.stageDeletedResourceForeground": "#FE4A49cc",
+		"gitDecoration.modifiedResourceForeground": "#ffe45ecc",
+		"gitDecoration.stageModifiedResourceForeground": "#ffe45ecc",
+		"gitDecoration.submoduleResourceForeground": "#5EADF2cc",
+
+		
 
 		"badge.background": "#ed1292",
 		"badge.foreground": "#F3EFF5",
@@ -131,12 +155,6 @@
 		"editorLineNumber.foreground": "#ffffff99",
 
 		"quickInput.background": "#141c2d",
-
-		"tab.activeBackground": "#0E131F",
-		"tab.activeForeground": "#ffffff",
-		"tab.border": "#212c36",
-		"tab.inactiveBackground": "#141c2d",
-		"tab.inactiveForeground": "#f3eff5cc",
 
 		/* Editor */
 		"editor.background": "#0E131F",

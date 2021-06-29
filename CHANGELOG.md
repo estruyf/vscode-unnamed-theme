@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.13]
+
+- VSCode notification color updates
+- VSCode git decoration color updates
+
 ## [0.0.12]
 
 - Changed list highlight foreground color
