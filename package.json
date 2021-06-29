@@ -65,5 +65,12 @@
         "path": "./themes/TheUnnamed-dark-no-italics-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run build",
+    "build": "node ./scripts/build.js"
+  },
+  "devDependencies": {
+    "jsonc": "2.0.0"
   }
 }
