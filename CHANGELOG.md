@@ -1,5 +1,15 @@
 # Change Log
 
+## [0.0.14]
+
+- Notification colors
+- git decoration colors
+- Marker navigation colors
+- Merge file conflicts colors
+- Suggest widget colors
+- Hover widget colors
+- Peek view editor colors
+
 ## [0.0.13]
 
 - VSCode notification color updates
