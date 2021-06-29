@@ -17,9 +17,9 @@ jobs:
           node-version: 14
           registry-url: https://registry.npmjs.org/
 
-      - name: Install vsce
-        run: npm i -g vsce
+      - name: Install dependencies
+        run: npm i
 
       - name: Publish
-        run: vsce publish -p ${{ secrets.VSCE_PAT }}
+        run: npx vsce publish -p ${{ secrets.VSCE_PAT }}
 
