@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.0]
+
+- First major release of the theme
+
 ## [0.0.14]
 
 - Notification colors
