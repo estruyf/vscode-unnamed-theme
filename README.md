@@ -51,24 +51,24 @@ The primary color for the theme will be: `#F141A8`. From this color, all other c
 
 ### Accent colors
 
-<div style="display: flex; justify-content: space-evenly; width: 100%">
-  <div style="margin: 0 5px;">
+<div style="display: flex; justify-content: space-evenly; width: 100%;">
+  <div style="margin: 0 5px; text-align: center;">
     <div style="border-radius: 50%; width: 50px; height: 50px; background: #FFE45E; margin: 0 auto; border: 1px solid #0E131F;"></div>
-    <p style="margin-top: 10px">Accent: <code>#FFE45E</code>
+    <p style="margin-top: 10px;">Accent: <code>#FFE45E</code>
   </div>
-  <div style="margin: 0 5px;">
+  <div style="margin: 0 5px; text-align: center;">
     <div style="border-radius: 50%; width: 50px; height: 50px; background: #44FFD2; margin: 0 auto; border: 1px solid #0E131F;"></div>
     <p style="margin-top: 10px">Accent: <code>#44FFD2</code>
   </div>
-  <div style="margin: 0 5px;">
+  <div style="margin: 0 5px; text-align: center;">
     <div style="border-radius: 50%; width: 50px; height: 50px; background: #15C2CB; margin: 0 auto; border: 1px solid #0E131F;"></div>
     <p style="margin-top: 10px">Accent: <code>#15C2CB</code>
   </div>
-  <div style="margin: 0 5px;">
+  <div style="margin: 0 5px; text-align: center;">
     <div style="border-radius: 50%; width: 50px; height: 50px; background: #5EADF2; margin: 0 auto; border: 1px solid #0E131F;"></div>
     <p style="margin-top: 10px">Accent: <code>#5EADF2</code>
   </div>
-  <div style="margin: 0 5px;">
+  <div style="margin: 0 5px; text-align: center;">
     <div style="border-radius: 50%; width: 50px; height: 50px; background: #FE4A49; margin: 0 auto; border: 1px solid #0E131F;"></div>
     <p style="margin-top: 10px">Accent: <code>#FE4A49</code>
   </div>
