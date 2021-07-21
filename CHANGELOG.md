@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.0]
+
+- Debug toolbar and dropdown styling
+
 ## [1.0.0]
 
 - First major release of the theme

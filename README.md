@@ -14,6 +14,10 @@
   <img src="https://vsmarketplacebadge.apphb.com/installs/eliostruyf.vscode-unnamed-theme.svg" alt="Number of installs"  style="display: inline-block;margin-left:10px" />
   
   <img src="https://vsmarketplacebadge.apphb.com/rating/eliostruyf.vscode-unnamed-theme.svg" alt="Ratings" style="display: inline-block;margin-left:10px" />
+
+  <a href="https://www.buymeacoffee.com/zMeFRy9" title="Buy me a coffee" style="margin-left:10px">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-€%203-blue?logo=buy-me-a-coffee&style=flat" alt="Buy me a coffee" style="display: inline-block" />
+  </a>
 </p>
 
 In June 2021, I had a bike accident, and I broke one vertebra. The doctor prescribed rest, but that is so boring. Lucky enough, my body tells me I need this rest. 

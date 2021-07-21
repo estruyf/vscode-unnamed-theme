@@ -119,7 +119,11 @@
     "peekViewResult.lineForeground": "#F3EFF5",
     "peekViewEditor.matchHighlightBackground": "#ed129299",
     "peekViewResult.selectionBackground": "#F3EFF550",
-    "peekViewTitle.background": "#0E131F"
+    "peekViewTitle.background": "#0E131F",
+    "debugToolBar.background": "#141c2d",
+    "debugToolBar.border": "#141c2d",
+    "dropdown.background": "#141c2d",
+    "dropdown.border": "#242d34"
   },
   "tokenColors": [
     {
