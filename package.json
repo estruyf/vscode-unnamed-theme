@@ -2,7 +2,7 @@
   "name": "vscode-unnamed-theme",
   "displayName": "The unnamed",
   "description": "A VSCode dark theme with vivid colors. Made for developers that want to spice up their editor.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "preview": false,
   "publisher": "eliostruyf",
   "galleryBanner": {
@@ -16,11 +16,11 @@
       "url": "https://img.shields.io/github/package-json/v/estruyf/vscode-unnamed-theme?color=green&label=vscode-msgraph-autocomplete&style=flat-square",
       "href": "https://github.com/estruyf/vscode-unnamed-theme"
     },
-		{
-			"description": "Buy me a coffee",
-			"url": "https://img.shields.io/badge/Buy%20me%20a%20coffee-€%203-blue?logo=buy-me-a-coffee&style=flat-square",
-			"href": "https://www.buymeacoffee.com/zMeFRy9"
-		}
+    {
+      "description": "Buy me a coffee",
+      "url": "https://img.shields.io/badge/Buy%20me%20a%20coffee-€%203-blue?logo=buy-me-a-coffee&style=flat-square",
+      "href": "https://www.buymeacoffee.com/zMeFRy9"
+    }
   ],
   "repository": {
     "type": "git",
