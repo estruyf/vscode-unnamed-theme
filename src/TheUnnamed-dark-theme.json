@@ -429,7 +429,15 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ec9cd2"
+				"foreground": "#F141A8"
+			}
+		},
+		{
+			"name": "!important keyword",
+			"scope": "keyword.other.important.css",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#FE4A49"
 			}
 		},
 		{

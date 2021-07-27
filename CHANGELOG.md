@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.2.0]
+
+- CSS attribute enhancements
+- `!important` keyword color change
+
 ## [1.1.0]
 
 - Debug toolbar and dropdown styling

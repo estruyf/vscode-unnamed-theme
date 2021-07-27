@@ -16,21 +16,21 @@
 	 *			- 15%: #d61084
 	 *			- 25%: #760949
 	 *	
-	 *	Accent: #FFE45E
+	 *	Accent Yellow: #FFE45E
 	 *		- darken:
 	 *  		- 5%: #F5CC00
-	 *	Accent: #44FFD2
+	 *	Accent Green: #44FFD2
 	 *		- darken:
 	 *  		- 5%: #2affcc
 	 *  		- 10%: #11ffc6
 	 *  		- 15%: #00f6bb
-	 *	Accent: #15C2CB
+	 *	Accent Dark-Green: #15C2CB
 	 *		- saturate:
 	 *  		- 10%: #0accd6
-	 *	Accent: #5EADF2
+	 *	Accent Blue: #5EADF2
 	 *		- darken:
 	 *  		- 5%: #46a1f0
-	 *	Accent: #FE4A49
+	 *	Accent Red: #FE4A49
 	 *		- lighten:
 	 *  		- 5%: #fe6362
 	 */
