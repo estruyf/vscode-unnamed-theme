@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.3.0]
+
+- Search panel styling
+
 ## [1.2.0]
 
 - CSS attribute enhancements

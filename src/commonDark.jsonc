@@ -212,7 +212,11 @@
 		"debugToolBar.background": "#141c2d",
 		"debugToolBar.border": "#141c2d",
 		"dropdown.background": "#141c2d",
-		"dropdown.border": "#242d34"
+		"dropdown.border": "#242d34",
+
+		/* Search */
+		"editorWidget.background": "#141c2d",
+		"editorWidget.border": "#141c2d"
 	},
 	"tokenColors": []
 }
