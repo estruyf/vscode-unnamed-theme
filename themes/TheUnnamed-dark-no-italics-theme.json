@@ -39,6 +39,7 @@
     "statusBar.border": "#212c36",
     "statusBar.debuggingBackground": "#FE4A49",
     "statusBar.debuggingForeground": "#0E131F",
+    "statusBar.noFolderBackground": "#760949",
     "statusBarItem.remoteBackground": "#ed1292",
     "titleBar.activeBackground": "#0E131F",
     "titleBar.activeForeground": "#F3EFF5",
