@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.0]
+
+- StatusBar: No folder background color set
+
 ## [1.3.0]
 
 - Search panel styling
