@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.5.0]
+
+- Menu: added border color
+
 ## [1.4.0]
 
 - StatusBar: No folder background color set

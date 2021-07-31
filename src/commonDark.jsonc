@@ -124,6 +124,9 @@
 		/* Scrollbar */
 
 		/* Widgets */
+
+		/* Menu */
+		"menu.border": "#212c36",
 		
 
 		/* Notifications */
@@ -218,7 +221,7 @@
 
 		/* Search */
 		"editorWidget.background": "#141c2d",
-		"editorWidget.border": "#141c2d"
+		"editorWidget.border": "#212c36"
 	},
 	"tokenColors": []
 }

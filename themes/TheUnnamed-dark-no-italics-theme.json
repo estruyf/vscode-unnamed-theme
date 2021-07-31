@@ -57,6 +57,7 @@
     "tab.border": "#212c36",
     "tab.inactiveBackground": "#141c2d",
     "tab.inactiveForeground": "#f3eff5cc",
+    "menu.border": "#212c36",
     "notifications.background": "#141c2d",
     "notifications.foreground": "#F3EFF5",
     "notifications.border": "#212c36",
@@ -126,7 +127,7 @@
     "dropdown.background": "#141c2d",
     "dropdown.border": "#242d34",
     "editorWidget.background": "#141c2d",
-    "editorWidget.border": "#141c2d"
+    "editorWidget.border": "#212c36"
   },
   "tokenColors": [
     {
