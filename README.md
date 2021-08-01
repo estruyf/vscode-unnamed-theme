@@ -102,8 +102,6 @@ If you want to style your terminal with the similar colors from this theme, you 
   <img src="./terminals/terminal_colors.png" />
 </p>
 
-![Terminal Colors](./terminals/terminal_colors.png)
-
 ## Contributing
 
 I hope you like the theme and enjoy using it. If you encounter an issue, or have some feedback, feel free to contribute by sending in a PR or an issue at the [The unnamed repository](https://github.com/estruyf/vscode-unnamed-theme).
