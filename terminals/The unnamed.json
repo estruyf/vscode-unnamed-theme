@@ -1,0 +1,24 @@
+{
+	"name" : "The unnamed",
+	
+	"background" : "#0e131f",
+	"foreground" : "#f3eff5",
+
+	"black" : "#0e131f",
+	"red" : "#fe4a49",
+	"green" : "#11ffc6",
+	"yellow" : "#f5cc00",
+	"blue" : "#46a1f0",
+	"purple" : "#ed1292",
+	"cyan" : "#0accd6",
+	"white" : "#dad6dc",
+
+	"brightBlack" : "#676965",
+	"brightRed" : "#fe6362",
+	"brightGreen" : "#44ffd2",
+	"brightYellow" : "#ffe45e",
+	"brightBlue" : "#5eadf2",
+	"brightPurple" : "#f141a8",
+	"brightCyan" : "#15c2cb",
+	"brightWhite" : "#f3eff5"
+}
