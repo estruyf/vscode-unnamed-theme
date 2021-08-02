@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.7.0]
+
+- Terminal colors implemented
+
 ## [1.6.1]
 
 - Readme update - duplicate terminal screenshot
