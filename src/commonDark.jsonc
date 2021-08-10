@@ -118,8 +118,6 @@
 		"tab.border": "#212c36",
 		"tab.inactiveBackground": "#141c2d",
 		"tab.inactiveForeground": "#f3eff5cc",
-
-		/* Breadcrumbs */
 		
 		/* Scrollbar */
 
@@ -128,7 +126,6 @@
 		/* Menu */
 		"menu.border": "#212c36",
 		
-
 		/* Notifications */
 		"notifications.background": "#141c2d",
 		"notifications.foreground": "#F3EFF5",
@@ -153,6 +150,7 @@
 		"badge.background": "#ed1292",
 		"badge.foreground": "#F3EFF5",
 
+		/* Breadcrumbs */
 		"breadcrumb.foreground": "#aaaaaa",
 
 		"editorGroupHeader.tabsBackground": "#141c2d",
@@ -214,8 +212,8 @@
 		"peekViewTitle.background": "#0E131F",
 
 		/* Debugging */
-		"debugToolBar.background": "#141c2d",
-		"debugToolBar.border": "#141c2d",
+		"debugToolBar.background": "#1e2942",
+		"debugToolBar.border": "#3E474E",
 		"dropdown.background": "#141c2d",
 		"dropdown.border": "#242d34",
 

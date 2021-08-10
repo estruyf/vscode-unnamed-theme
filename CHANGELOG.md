@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.6.0]
+
+- Debugger toolbar: color changes for better visibility
+
 ## [1.5.0]
 
 - Menu: added border color
