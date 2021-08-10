@@ -121,8 +121,6 @@
 		
 		/* Scrollbar */
 
-		/* Widgets */
-
 		/* Menu */
 		"menu.border": "#212c36",
 		
@@ -219,7 +217,31 @@
 
 		/* Search */
 		"editorWidget.background": "#141c2d",
-		"editorWidget.border": "#212c36"
+		"editorWidget.border": "#212c36",
+
+		/* Terminal */
+		"terminal.border": "#212c36",
+
+		"terminal.background": "#0E131F",
+		"terminal.foreground": "#F3EFF5",
+		
+		"terminal.ansiBlack": "#141c2d",
+		"terminal.ansiRed": "#fe4a49",
+		"terminal.ansiGreen": "#11ffc6",
+		"terminal.ansiYellow": "#f5cc00",
+		"terminal.ansiBlue": "#46a1f0",
+		"terminal.ansiMagenta": "#ed1292",
+		"terminal.ansiCyan": "#0accd6",
+		"terminal.ansiWhite": "#dad6dc",
+
+		"terminal.ansiBrightBlack": "#676965",
+		"terminal.ansiBrightRed": "#fe6362",
+		"terminal.ansiBrightGreen": "#44ffd2",
+		"terminal.ansiBrightYellow": "#ffe45e",
+		"terminal.ansiBrightBlue": "#5eadf2",
+		"terminal.ansiBrightMagenta": "#f141a8",
+		"terminal.ansiBrightCyan": "#15c2cb",
+		"terminal.ansiBrightWhite": "#f3eff5",
 	},
 	"tokenColors": []
 }

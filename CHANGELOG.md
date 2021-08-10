@@ -1,8 +1,20 @@
 # Change Log
 
-## [1.6.0]
+## [1.8.0]
 
 - Debugger toolbar: color changes for better visibility
+
+## [1.7.0]
+
+- Terminal colors implemented
+
+## [1.6.1]
+
+- Readme update - duplicate terminal screenshot
+
+## [1.6.0]
+
+- Added terminal colors
 
 ## [1.5.0]
 

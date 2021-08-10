@@ -91,12 +91,23 @@ Select the `The unnamed` or `The unnamed (No Italics)` from the theme menu in VS
 1. File > Preferences > Color Theme > **The unnamed** or **The unnamed (No Italics)**
 1. Enjoy using the theme
 
+## Terminal themes
+
+If you want to style your terminal with the similar colors from this theme, you can use the following theme files:
+
+- [iTerm2 - The unnamed](./terminals/The%20unnamed.itermcolors)
+- [Microsoft Terminal - The unnamed](./terminals/The%20unnamed.json)
+
+<p align="center">
+  <img src="./terminals/terminal_colors.png" />
+</p>
+
 ## Contributing
 
 I hope you like the theme and enjoy using it. If you encounter an issue, or have some feedback, feel free to contribute by sending in a PR or an issue at the [The unnamed repository](https://github.com/estruyf/vscode-unnamed-theme).
 
 <p align="center">
-  <a href="#">
+  <a href="https://visitorbadge.io">
       <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=vscode-unnamed-theme&countColor=%23F141A8&labelColor=%230E131F" />
    </a>
 </p>
