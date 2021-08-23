@@ -13,7 +13,7 @@
   "badges": [
     {
       "description": "version",
-      "url": "https://img.shields.io/github/package-json/v/estruyf/vscode-unnamed-theme?color=green&label=vscode-msgraph-autocomplete&style=flat-square",
+      "url": "https://img.shields.io/github/package-json/v/estruyf/vscode-unnamed-theme?color=green&label=vscode-unnamed-theme&style=flat-square",
       "href": "https://github.com/estruyf/vscode-unnamed-theme"
     },
     {
