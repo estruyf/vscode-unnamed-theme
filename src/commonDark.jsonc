@@ -96,6 +96,9 @@
 		/* Title bar */
 		"titleBar.activeBackground": "#0E131F",
 		"titleBar.activeForeground": "#F3EFF5",
+		"titleBar.border": "#212c36",
+		"titleBar.inactiveBackground": "#0c111b",
+		"titleBar.inactiveForeground": "#f3eff580",
 
 		/* Buttons */
 		"button.background": "#15C2CB",
