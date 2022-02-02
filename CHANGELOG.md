@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.9.0]
+
+- Title bar color updates + border
+
 ## [1.8.0]
 
 - Debugger toolbar: color changes for better visibility
