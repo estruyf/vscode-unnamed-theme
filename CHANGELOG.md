@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.10.0]
+
+- Editor overview ruler highlight color of search/find matches
+
 ## [1.9.0]
 
 - Title bar color updates + border

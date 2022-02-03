@@ -99,6 +99,7 @@
     "editorError.foreground": "#FE4A49",
     "editorWarning.foreground": "#FFE45E",
     "editorInfo.foreground": "#5EADF2",
+    "editorOverviewRuler.findMatchForeground": "#ed1292",
     "editorMarkerNavigation.background": "#141c2d",
     "editorMarkerNavigationError.background": "#FE4A49",
     "editorMarkerNavigationWarning.background": "#FFE45E",

@@ -176,6 +176,9 @@
 		"editorWarning.foreground": "#FFE45E",
 		"editorInfo.foreground": "#5EADF2",
 
+		/* Editor Ruler */
+		"editorOverviewRuler.findMatchForeground": "#ed1292",
+
 		/* Marker Navigation */
 		"editorMarkerNavigation.background": "#141c2d",
 		"editorMarkerNavigationError.background": "#FE4A49",
