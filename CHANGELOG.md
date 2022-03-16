@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.10.1]
+
+- Fix token color
+
 ## [1.10.0]
 
 - Editor overview ruler highlight color of search/find matches
