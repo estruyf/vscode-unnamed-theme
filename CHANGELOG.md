@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.11.0]
+
+- Background hover colors of buttons updated
+
 ## [1.10.1]
 
 - Fix token color

@@ -103,11 +103,13 @@
 		/* Buttons */
 		"button.background": "#15C2CB",
 		"button.foreground": "#0E131F",
+		"button.hoverBackground": "#59E6EE", 
 
 		"textLink.foreground": "#46a1f0",
 
 		"button.secondaryBackground": "#f3eff533",
 		"button.secondaryForeground": "#F3EFF5",
+		"button.secondaryHoverBackground": "#f3eff520",
 
 		/* Inputs */
 		"input.background": "#0d1217",
