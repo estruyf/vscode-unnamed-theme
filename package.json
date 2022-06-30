@@ -68,6 +68,11 @@
         "label": "The unnamed (No Italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/TheUnnamed-dark-no-italics-theme.json"
+      },
+      {
+        "label": "The unnamed (light)",
+        "uiTheme": "vs",
+        "path": "./themes/TheUnnamed-light-theme.json"
       }
     ]
   },
