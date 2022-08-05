@@ -21,12 +21,12 @@ function engine() {
   fs.writeFileSync(path.join(__dirname, `../themes`, darkNoItalicFile), JSON.stringify(darkNoItalic, null, 2), { encoding: "utf-8" });
 
 
-  const commonLightContents = jsonc.parse(fs.readFileSync(path.join(__dirname, commonLight), { encoding: "utf-8" }));
-  const lightItalicContents = JSON.parse(fs.readFileSync(path.join(__dirname, `../src/`, lightItalicFile), { encoding: "utf-8" }));
+  // const commonLightContents = jsonc.parse(fs.readFileSync(path.join(__dirname, commonLight), { encoding: "utf-8" }));
+  // const lightItalicContents = JSON.parse(fs.readFileSync(path.join(__dirname, `../src/`, lightItalicFile), { encoding: "utf-8" }));
 
-  const lightItalic = { ...commonLightContents, ...lightItalicContents };
+  // const lightItalic = { ...commonLightContents, ...lightItalicContents };
 
-  fs.writeFileSync(path.join(__dirname, `../themes`, lightItalicFile), JSON.stringify(lightItalic, null, 2), { encoding: "utf-8" });
+  // fs.writeFileSync(path.join(__dirname, `../themes`, lightItalicFile), JSON.stringify(lightItalic, null, 2), { encoding: "utf-8" });
 };
 
 module.exports = engine;
