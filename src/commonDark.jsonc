@@ -124,7 +124,8 @@
 		"tab.inactiveBackground": "#141c2d",
 		"tab.inactiveForeground": "#f3eff5cc",
 		
-		/* Scrollbar */
+		/* Scrolling */
+		"editorStickyScroll.background": "#242d34",
 
 		/* Menu */
 		"menu.border": "#212c36",

@@ -62,6 +62,7 @@
     "tab.border": "#212c36",
     "tab.inactiveBackground": "#141c2d",
     "tab.inactiveForeground": "#f3eff5cc",
+    "editorStickyScroll.background": "#242d34",
     "menu.border": "#212c36",
     "notifications.background": "#141c2d",
     "notifications.foreground": "#F3EFF5",

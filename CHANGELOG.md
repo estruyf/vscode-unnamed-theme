@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.12.0]
+
+- Background color added for the sticky scroll feature
+
 ## [1.11.0]
 
 - Background hover colors of buttons updated
