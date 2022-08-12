@@ -9,6 +9,8 @@
     "color": "#0E131F",
     "theme": "dark"
   },
+  "license": "MIT",
+  "author": "Elio Struyf <elio@struyfconsulting.be> (https://www.eliostruyf.com)",
   "icon": "assets/the-unnamed_128x128.png",
   "badges": [
     {
@@ -46,7 +48,6 @@
       "url": "https://www.buymeacoffee.com/zMeFRy9"
     }
   ],
-  "license": "MIT",
   "engines": {
     "vscode": "^1.57.0"
   },
