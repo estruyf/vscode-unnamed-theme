@@ -133,6 +133,7 @@
     "debugToolBar.border": "#3E474E",
     "dropdown.background": "#141c2d",
     "dropdown.border": "#242d34",
+    "debugIcon.breakpointForeground": "#FE4A49",
     "editorWidget.background": "#141c2d",
     "editorWidget.border": "#212c36",
     "terminal.border": "#212c36",

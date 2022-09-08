@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.13.0]
+
+- Breakpoint icon color updated
+
 ## [1.12.0]
 
 - Background color added for the sticky scroll feature

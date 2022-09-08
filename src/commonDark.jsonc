@@ -224,6 +224,8 @@
 		"dropdown.background": "#141c2d",
 		"dropdown.border": "#242d34",
 
+		"debugIcon.breakpointForeground": "#FE4A49",
+
 		/* Search */
 		"editorWidget.background": "#141c2d",
 		"editorWidget.border": "#212c36",
