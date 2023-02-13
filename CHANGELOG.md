@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.14.0]
+
+- Updated images in the readme
+
 ## [1.13.0]
 
 - Breakpoint icon color updated

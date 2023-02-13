@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-unnamed-theme" title="Check it out on the Visual Studio Marketplace">
-    <img src="https://vsmarketplacebadge.apphb.com/version/eliostruyf.vscode-unnamed-theme.svg" alt="Visual Studio Marketplace" style="display: inline-block" />
+    <img src="https://vsmarketplacebadges.dev/version/eliostruyf.vscode-unnamed-theme.svg" alt="Visual Studio Marketplace" style="display: inline-block" />
   </a>
 
-  <img src="https://vsmarketplacebadge.apphb.com/installs/eliostruyf.vscode-unnamed-theme.svg" alt="Number of installs"  style="display: inline-block;margin-left:10px" />
+  <img src="https://vsmarketplacebadges.dev/installs/eliostruyf.vscode-unnamed-theme.svg" alt="Number of installs"  style="display: inline-block;margin-left:10px" />
   
-  <img src="https://vsmarketplacebadge.apphb.com/rating/eliostruyf.vscode-unnamed-theme.svg" alt="Ratings" style="display: inline-block;margin-left:10px" />
+  <img src="https://vsmarketplacebadges.dev/rating/eliostruyf.vscode-unnamed-theme.svg" alt="Ratings" style="display: inline-block;margin-left:10px" />
 
   <a href="https://www.buymeacoffee.com/zMeFRy9" title="Buy me a coffee" style="margin-left:10px">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-€%203-blue?logo=buy-me-a-coffee&style=flat" alt="Buy me a coffee" style="display: inline-block" />
@@ -108,6 +108,6 @@ I hope you like the theme and enjoy using it. If you encounter an issue, or have
 
 <p align="center">
   <a href="https://visitorbadge.io">
-      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=vscode-unnamed-theme&countColor=%23F141A8&labelColor=%230E131F" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=vscode-unnamed-theme&countColor=%23F141A8&labelColor=%230E131F" />
    </a>
 </p>
