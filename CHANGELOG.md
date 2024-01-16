@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.15.0]
+
+- Better checkbox colors
+
 ## [1.14.0]
 
 - Updated images in the readme

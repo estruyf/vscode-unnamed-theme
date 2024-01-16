@@ -117,6 +117,11 @@
 		"inputOption.activeBackground": "#ed12924d",
 		"inputOption.activeBorder": "#ed129200",
 
+		/* Checkboxes */
+		"checkbox.background": "#263454",
+		"checkbox.foreground": "#F3EFF5",
+		"checkbox.border": "#334671",
+
 		/* Tabs */
 		"tab.activeBackground": "#0E131F",
 		"tab.activeForeground": "#ffffff",
