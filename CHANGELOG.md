@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.16.0]
+
+- Added activity bar top active border color
+
 ## [1.15.0]
 
 - Better checkbox colors
